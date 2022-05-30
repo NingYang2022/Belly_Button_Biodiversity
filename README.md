@@ -1,5 +1,5 @@
 
-# Surf Up
+# Belly Button Biodiversity
 
 ## <font color=#6495ED>Overview of Project</font>
 The human body is source of thousands of types of bacteria, and different parts of the body harbor different species. Bacteria found in the gut are not the same species that are found on person’s eyelashes. Furthermore, between individuals the bacterial species may vary even in the same location. 
